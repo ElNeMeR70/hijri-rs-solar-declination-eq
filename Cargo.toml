@@ -1,0 +1,10 @@
+[package]
+name = "hijri-rs-solar-declination-eq"
+version = "1.0.0"
+edition = "2021"
+description = "Solar Declination & Equation of Time (Mu'adalat Al-Zaman) Ephemeris"
+authors = ["Mahmoud ElNemer <sultanelnemer@gmail.com>"]
+
+[[bin]]
+name = "hijri_rs_solar_declination_eq"
+path = "main.rs"
